@@ -1,3 +1,15 @@
+
+# Stock Market Portfolio (Using React-redux )
+
+![alt text](https://raw.githubusercontent.com/shiv-source/stock-market-portfolio-react-redux/master/screenshot/stock_market_portfolio_react_redux.gif)
+
+
+![alt text](https://raw.githubusercontent.com/shiv-source/stock-market-portfolio-react-redux/master/screenshot/Annotation%202020-10-31%20102706.png)
+
+
+![alt text](https://raw.githubusercontent.com/shiv-source/stock-market-portfolio-react-redux/master/screenshot/Annotation%202020-10-31%20102723.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
