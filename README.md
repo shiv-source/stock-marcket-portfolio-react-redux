@@ -1,6 +1,9 @@
 
 # Stock Market Portfolio (Using React-redux )
 
+####  [GET API of poftfolio stocks data ](https://raw.githubusercontent.com/shiv-source/stock-market-portfolio-react-redux/master/db.json)
+
+
 ![alt text](https://raw.githubusercontent.com/shiv-source/stock-market-portfolio-react-redux/master/screenshot/stock_market_portfolio_react_redux.gif)
 
 
