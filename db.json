@@ -1,0 +1,47 @@
+{
+  "stocks": [
+    {
+      "id": 1,
+      "name": "AADR",
+      "quantity": "430",
+      "price" : "50.30",
+      "avg_price" : "41.75"
+    },
+    {
+      "id": 2,
+      "name": "MFEM",
+      "quantity": "210",
+      "price" : "23.20",
+      "avg_price" : "22.50"
+    },
+    {
+      "id": 3,
+      "name": "JPEM",
+      "quantity": "328",
+      "price" : "52.50",
+      "avg_price" : "56.70"
+    },
+    {
+      "id": 4,
+      "name": "KEMQ",
+      "quantity": "801",
+      "price" : "20.40",
+      "avg_price" : "22.24"
+    },
+    {
+      "id": 5,
+      "name": "KLDW",
+      "quantity": "523",
+      "price" : "32.90",
+      "avg_price" : "26.32"
+    },
+    {
+      "id": 6,
+      "name": "KOIN",
+      "quantity": "335",
+      "price" : "25.40",
+      "avg_price" : "25.40"
+    }
+  ]
+
+}
