@@ -1,4 +1,9 @@
-/* .container {
+.container {
   font-family: 'Lato', sans-serif;
   font-family: 'Roboto', sans-serif;
-} */
+}
+
+.loader{
+  position: relative;
+  top: 100px;
+}

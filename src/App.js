@@ -1,4 +1,5 @@
 import 'bootstrap/dist/css/bootstrap.css';
+import "font-awesome/css/font-awesome.css";
 import "./App.css";
 import Main from "./components/MainComponent";
 import { Provider } from "react-redux";

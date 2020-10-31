@@ -60,6 +60,22 @@ class Main extends React.Component {
   }
 
   render() {
+   
+    const renderView = () => {
+      let isLoading = this.props.stock.isLoading
+      if(isLoading){
+        return (
+          <RenderLoader />
+        )
+      }
+      else{
+        return (
+         
+            <div></div>
+        )
+      }
+        
+    }
 
     return (
       <div className="container">
@@ -82,9 +98,22 @@ class Main extends React.Component {
           </thead>
           <tbody>{this.renderTableData()}</tbody>
         </table>
+        {renderView()}
       </div>
     );
   }
+}
+
+const RenderLoader = (props) => {
+  return(
+    <div className="loader">
+        <div className="row justify-content-md-center">
+        <span className="fa fa-spinner fa-pulse fa-5x fa-fw text-primary"></span>
+    
+      </div>
+    </div>
+  )
+
 }
 
 export default connect(mapStateToProps, mapDispatchToProps)(Main);
